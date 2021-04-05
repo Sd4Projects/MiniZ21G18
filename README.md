@@ -1,6 +1,6 @@
 # MiniZ21G18 draft info.
 
-This design will be used to replace the Version 1 series boards listed in Sd4Projects. The MiniMega boards will not work with this board. Addition verion 4 boards will be added (Network W5500, PoE, Feather Adapter, Datalogger, ProtoBoard, etc).
+This design will be used to replace the Version 1 series boards listed in Sd4Projects. The MiniMega boards will not work with this board. Additional verion 4 boards will be added (Network W5500, PoE, Feather Adapter, Datalogger, ProtoBoard, etc).
 
 Released under CERN OHL v.1.2
 You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2.
