@@ -9,6 +9,8 @@ INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR 
 Please see the CERN OHL v.1.2 for applicable conditions. (http://ohwr.org/cernohl).
 
 
+This board is designed to be used with Arduino software like an Arduino ZERO.
+
 ![MiniZ21G18_top_v4b](https://user-images.githubusercontent.com/6279065/113534717-6229e080-9586-11eb-80bc-0079c23add4f.jpg)
 
 
