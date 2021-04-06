@@ -1,6 +1,6 @@
 # MiniZ21G18 draft info.
 
-This design will be used to replace the Version 1 series boards that were listed in Sd4Projects before. The old MiniMega boards (version 1) will not work with this series board.
+This design will be used to replace the Version 1 series boards that were listed in Sd4Projects before. The old MiniMega boards (version 1) will not work with this series board. Several new boards have been posted to support the new MiniZ21G18 board.
 
 This board is released under CERN Open Hardware License, CERN OHL v.1.2.
 Please see the CERN OHL v.1.2 for applicable conditions. (http://ohwr.org/cernohl).
