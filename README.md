@@ -7,3 +7,6 @@ You may redistribute and modify this documentation under the terms of the CERN O
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, 
 INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN OHL v.1.2 for applicable conditions. (http://ohwr.org/cernohl).
+
+Finished Board Top View
+![alt text](https://github.com/Sd4Projects/MiniZ21G18/blob/master/MiniZ21G18_top_v4b.jpg?raw=true "finishedboard")
