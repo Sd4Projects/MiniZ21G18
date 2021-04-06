@@ -27,6 +27,6 @@ To install the boot firmware I used an Atmel-ICE programmer and the standard Ard
 
 The usb cable that plugs into the cpu is for power only. The usb cable that plugs into the Atmel-ICE does the programming.
 
-Bare board can be ordered from OSH Park <a href="https://oshpark.com/shared_projects/EAxicWNz">
+Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/rFaZbuVc with project name MiniZ21G18_v4b.kicad_pcb or use source files and order from whoever you want.
   
 See project files for more info till full upload done.
