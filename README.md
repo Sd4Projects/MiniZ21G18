@@ -11,3 +11,5 @@ Please see the CERN OHL v.1.2 for applicable conditions. (http://ohwr.org/cernoh
 Finished Board Top View
 
 ![alt text](https://github.com/Sd4Projects/MiniZ21G18/blob/main/MiniZ21G18_top_v4b.jpg?raw=true "finishedboard")
+
+See project files for more info till full upload done.
