@@ -27,7 +27,6 @@ To install the boot firmware I used an Atmel-ICE programmer and the standard Ard
 
 The usb cable that plugs into the cpu is for power only. The usb cable that plugs into the Atmel-ICE does the programming.
 
-
-<a href="https://oshpark.com/shared_projects/EAxicWNz">Board
+Bare board can be ordered from OSH Park <a href="https://oshpark.com/shared_projects/EAxicWNz">
   
 See project files for more info till full upload done.
