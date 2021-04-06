@@ -1,6 +1,6 @@
 # MiniZ21G18 draft info.
 
-This design will be used to replace the Version 1 series boards that were listed in Sd4Projects before. The MiniMega boards (version 1) will not work with this series board.
+This design will be used to replace the Version 1 series boards that were listed in Sd4Projects before. The old MiniMega boards (version 1) will not work with this series board.
 
 This board is released under CERN Open Hardware License, CERN OHL v.1.2.
 Please see the CERN OHL v.1.2 for applicable conditions. (http://ohwr.org/cernohl).
@@ -26,6 +26,8 @@ To install the boot firmware I used an Atmel-ICE programmer and the standard Ard
 ![alt text](https://github.com/Sd4Projects/MiniZ21G18/blob/main/Arduino_boot_config2.jpg?raw=true "Atem-ICE")
 
 The usb cable that plugs into the cpu is for power only. The usb cable that plugs into the Atmel-ICE does the programming.
+
+When using the board with the Arduino IDE select Board: Arduino Zero (Native USB Port) for cpu type.
 
 Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/rFaZbuVc with project name MiniZ21G18_v4b.kicad_pcb or use source files and order from whoever you want.
   
