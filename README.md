@@ -29,6 +29,6 @@ The usb cable that plugs into the cpu is for power only. The usb cable that plug
 
 When using the board with the Arduino IDE select Board: Arduino Zero (Native USB Port) for cpu type.
 
-Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/rFaZbuVc with project name MiniZ21G18_v4b.kicad_pcb or use source files and order from whoever you want.
+Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/EAxicWNz with project name MiniZ21G18_v4b.kicad_pcb or use source files and order from whoever you want.
   
 See project files for more info till full upload done.
